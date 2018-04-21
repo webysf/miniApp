@@ -8,6 +8,6 @@ package com.miniapp.common.util;
 public class DateUtil {
 	
 	public void date() {
-		System.out.println(111);
+		System.out.println(222);
 	}
 }
